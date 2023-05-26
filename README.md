@@ -1,4 +1,4 @@
-# Chào mừng bạn đến với trò chơi Galactic War của chúng tôi!
+# Chào mừng bạn đến với trò chơi Galactic War của tôi!
 
 Trong game này, bạn sẽ được tham gia vào cuộc phiêu lưu đầy thử thách và kịch tính giữa các thiên hà.
 # Cốt truyện
@@ -32,12 +32,12 @@ Các item này sẽ xuất hiện ngẫu nhiên trong trận đấu, bạn cần
 Trò chơi bao gồm nhiều cấp độ khác nhau, mỗi cấp độ có độ khó tăng dần. Tại mỗi cấp độ, bạn sẽ đối mặt với các thiên thạch và các mục tiêu khác, cùng với một boss khổng lồ ở cuối cấp độ. Boss sẽ có sức mạnh và kỹ năng đặc biệt riêng, bạn cần phải tìm ra điểm yếu của chúng để đánh bại.
 Hiện tại trong game có 3 Boss theo thứ tự:
 ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/34afecaf-59c0-4d2d-aa7a-9dd34ddaf957)
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/c2463194-7ef6-4219-9c41-b3ca396c37a2)
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/801503bf-9efe-4469-87a0-f222f94db0dd)
+*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/c2463194-7ef6-4219-9c41-b3ca396c37a2)
+*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/801503bf-9efe-4469-87a0-f222f94db0dd)
 **Mỗi con boss được thiết kế theo cảm hứng 3 vị thần như cốt truyện: Loki, Thor,Hela.**
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/acfe8e41-e833-436a-9f2d-734cb29b6eb3)
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9d4a0c03-c79e-46b0-8fae-b5337c1a9091)
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/6c746c81-6acd-4757-a87c-d3382b34c3d7)
+*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/acfe8e41-e833-436a-9f2d-734cb29b6eb3)
+*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9d4a0c03-c79e-46b0-8fae-b5337c1a9091)
+*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/6c746c81-6acd-4757-a87c-d3382b34c3d7)
 
 ## Đồ họa
 Với đồ họa 2D tuyệt đẹp và âm thanh sống động, trò chơi bắn máy bay của chúng tôi sẽ đưa bạn vào một thế giới phiêu lưu không giới hạn và đầy thách thức. Bạn sẽ có cảm giác như đang tham gia vào một cuộc chiến giữa các thiên hà đích thực.
