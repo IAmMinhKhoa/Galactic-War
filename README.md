@@ -64,12 +64,12 @@ _Hiện tại vẫn chưa có hệ thống âm thanh cho game_
 ## Kết luận
 Với gameplay đơn giản nhưng gây nghiện, đồ họa 2D đẹp mắt sống động,có cốt truyện. trò chơi bắn máy bay của chúng tôi sẽ là trò chơi giải trí tuyệt vời cho bất kỳ ai yêu thích thể loại game bắn súng không ngừng nghỉ. Hãy sẵn sàng cho cuộc chiến giữa các thiên hà và trở thành anh hùng của trò chơi này!
 ## ĐIỂM MẠNH RÚT RA TỪ PROJECT
-+Học hỏi được nhiều thứ design 1 game từ kịch bản hình ảnh, cốt truyện.
-+Học hỏi nhiều nguồn và nghiên cứu các chức năng mình mong muốn (research skills)
-+Nâng cao kĩ năng code, UI. . . cho các dự án sau.
++Học hỏi được nhiều thứ design 1 game từ kịch bản hình ảnh, cốt truyện. <p>
++Học hỏi nhiều nguồn và nghiên cứu các chức năng mình mong muốn (research skills) <p>
++Nâng cao kĩ năng code, UI. . . cho các dự án sau. <p>
 ## CÁC LỖI CÒN GẶP
-+Khi bị giết bởi Ultimate (tia laze chết chóc) của boss thì player chết không chuyển sang giao diện gameover
-+Code chưa tường minh, không có tính tái sử dụng cao.
-+Quản lý tài nguyên chưa được tốt.
-=> lý do: Project được tạo ra với mục đích tự học và tìm tòi các thứ mới, nên **những lỗi này đã được rút kinh nghiệm ở các Project kế tiếp.**
++Khi bị giết bởi Ultimate (tia laze chết chóc) của boss thì player chết không chuyển sang giao diện gameover  <p>
++Code chưa tường minh, không có tính tái sử dụng cao. <p>
++Quản lý tài nguyên chưa được tốt. <p
+=> lý do: Project được tạo ra với mục đích tự học và tìm tòi các thứ mới, nên **những lỗi này đã được rút kinh nghiệm ở các Project kế tiếp.** <p>
 ## TẤT CẢ NGUỒN ẢNH ĐỀU LÀ SƯU TẦM TRÊN INTERNET PHỤC VỤ CHO VIỆC HỌC TẬP KHÔNG NHẦM MỤC ĐÍCH TRỤC LỢI !!!
