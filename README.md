@@ -13,6 +13,9 @@ Nhưng những vị thần khác đã đứng ra đấu tranh chống lại 3 ng
 Nhiệm vụ của bạn là điều khiển chiếc máy bay để tiêu diệt các thiên thạch đang bay đến bạn và đánh bại các boss khổng lồ đang chờ đợi bạn ở cuối mỗi cấp độ. Bạn sẽ cần phải di chuyển máy bay của mình tránh các vật cản và tấn công các mục tiêu, đồng thời thu thập các item hữu ích như hồi máu, nâng cấp súng và khiên.
 
 Bạn sẽ có một bàn điều khiển để điều khiển chiếc máy bay của mình. Bàn điều khiển bao gồm một nút di chuyển để điều khiển máy bay của bạn lên, xuống, trái và phải, và một nút bắn để tấn công các mục tiêu.
+## Các loại phi thuyền người chơi
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9d966661-d93e-4688-acf1-058732b34a38)
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9f5ae33d-58c2-41ad-b5f4-c020c2d476cb)
 
 ## Các item trong game
 
@@ -27,11 +30,22 @@ Các item này sẽ xuất hiện ngẫu nhiên trong trận đấu, bạn cần
 ## Các cấp độ và boss
 
 Trò chơi bao gồm nhiều cấp độ khác nhau, mỗi cấp độ có độ khó tăng dần. Tại mỗi cấp độ, bạn sẽ đối mặt với các thiên thạch và các mục tiêu khác, cùng với một boss khổng lồ ở cuối cấp độ. Boss sẽ có sức mạnh và kỹ năng đặc biệt riêng, bạn cần phải tìm ra điểm yếu của chúng để đánh bại.
+Hiện tại trong game có 3 Boss theo thứ tự:
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/34afecaf-59c0-4d2d-aa7a-9dd34ddaf957)
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/c2463194-7ef6-4219-9c41-b3ca396c37a2)
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/801503bf-9efe-4469-87a0-f222f94db0dd)
+**Mỗi con boss được thiết kế theo cảm hứng 3 vị thần như cốt truyện: Loki, Thor,Hela.**
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/acfe8e41-e833-436a-9f2d-734cb29b6eb3)
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9d4a0c03-c79e-46b0-8fae-b5337c1a9091)
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/6c746c81-6acd-4757-a87c-d3382b34c3d7)
 
-## Đồ họa và âm thanh
-
+## Đồ họa
 Với đồ họa 2D tuyệt đẹp và âm thanh sống động, trò chơi bắn máy bay của chúng tôi sẽ đưa bạn vào một thế giới phiêu lưu không giới hạn và đầy thách thức. Bạn sẽ có cảm giác như đang tham gia vào một cuộc chiến giữa các thiên hà đích thực.
+![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/832017bf-2984-41c9-a91a-7d0b2c50cfc1)
+**Menu chính**
 
+## Âm thanh
+Hiện tại vẫn chưa có hệ thống âm thanh cho game
 ## Kết luận
 
-Với gameplay đơngiản nhưng gây nghiện, đồ họa 2D đẹp mắt và âm thanh sống động, trò chơi bắn máy bay của chúng tôi sẽ là trò chơi giải trí tuyệt vời cho bất kỳ ai yêu thích thể loại game bắn súng không ngừng nghỉ. Hãy sẵn sàng cho cuộc chiến giữa các thiên hà và trở thành anh hùng của trò chơi này!
+Với gameplay đơn giản nhưng gây nghiện, đồ họa 2D đẹp mắt sống động,có cốt truyện. trò chơi bắn máy bay của chúng tôi sẽ là trò chơi giải trí tuyệt vời cho bất kỳ ai yêu thích thể loại game bắn súng không ngừng nghỉ. Hãy sẵn sàng cho cuộc chiến giữa các thiên hà và trở thành anh hùng của trò chơi này!
