@@ -1,5 +1,6 @@
 # Chào mừng bạn đến với trò chơi Galactic War của tôi!
-
+[**CONTACT TO ME**](https://www.facebook.com/Ireking666)
+#### **Email: tnminhkhoa666@gmail.com**
 Trong game này, bạn sẽ được tham gia vào cuộc phiêu lưu đầy thử thách và kịch tính giữa các thiên hà.
 # Cốt truyện
 Câu chuyện được lấy cảm hứng từ các vị thần Bắc Âu và chuyển thể thành cuộc chiến giữa các phi thuyền không gian.
