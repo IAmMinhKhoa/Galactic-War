@@ -31,19 +31,32 @@ Các item này sẽ xuất hiện ngẫu nhiên trong trận đấu, bạn cần
 
 Trò chơi bao gồm nhiều cấp độ khác nhau, mỗi cấp độ có độ khó tăng dần. Tại mỗi cấp độ, bạn sẽ đối mặt với các thiên thạch và các mục tiêu khác, cùng với một boss khổng lồ ở cuối cấp độ. Boss sẽ có sức mạnh và kỹ năng đặc biệt riêng, bạn cần phải tìm ra điểm yếu của chúng để đánh bại.
 Hiện tại trong game có 3 Boss theo thứ tự:
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/34afecaf-59c0-4d2d-aa7a-9dd34ddaf957)
-*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/c2463194-7ef6-4219-9c41-b3ca396c37a2)
-*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/801503bf-9efe-4469-87a0-f222f94db0dd)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/34afecaf-59c0-4d2d-aa7a-9dd34ddaf957)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/c2463194-7ef6-4219-9c41-b3ca396c37a2)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/801503bf-9efe-4469-87a0-f222f94db0dd)
 **Mỗi con boss được thiết kế theo cảm hứng 3 vị thần như cốt truyện: Loki, Thor,Hela.**
-*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/acfe8e41-e833-436a-9f2d-734cb29b6eb3)
-*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9d4a0c03-c79e-46b0-8fae-b5337c1a9091)
-*![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/6c746c81-6acd-4757-a87c-d3382b34c3d7)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/acfe8e41-e833-436a-9f2d-734cb29b6eb3)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/9d4a0c03-c79e-46b0-8fae-b5337c1a9091)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/6c746c81-6acd-4757-a87c-d3382b34c3d7)
 
 ## Đồ họa
 Với đồ họa 2D tuyệt đẹp và âm thanh sống động, trò chơi bắn máy bay của chúng tôi sẽ đưa bạn vào một thế giới phiêu lưu không giới hạn và đầy thách thức. Bạn sẽ có cảm giác như đang tham gia vào một cuộc chiến giữa các thiên hà đích thực.
-![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/832017bf-2984-41c9-a91a-7d0b2c50cfc1)
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/832017bf-2984-41c9-a91a-7d0b2c50cfc1)
 **Menu chính**
-
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/61047816-fb77-48c5-83b4-71c35d779a5d)
+**Cốt truyện**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/ccd5f211-6957-4290-bcd2-b60087bf2c51)
+**Lựa chọn phi thuyền**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/756623d9-10ce-406d-88ff-c9da303dfacb)
+**Playing**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/f5c73a6d-aeb5-4dc6-8717-c0e4713a6675)
+**Phi thuyền có khiên (khong phai boom man)**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/c52ac8d6-24c3-4182-bf16-020398c6454a)
+**Đấm nhau với boss 1**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/181df65f-37f4-4a74-af2f-c5ea739823da)
+**Đấm nhau với boss 2**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/b950edef-09f5-4077-b498-929ab6846b72)
+**Đấm nhau với boss 3**
 ## Âm thanh
 Hiện tại vẫn chưa có hệ thống âm thanh cho game
 ## Kết luận
