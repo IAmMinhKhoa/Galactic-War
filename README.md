@@ -57,8 +57,15 @@ Với đồ họa 2D tuyệt đẹp và âm thanh sống động, trò chơi b�
 **Đấm nhau với boss 2**
 # ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/b950edef-09f5-4077-b498-929ab6846b72)
 **Đấm nhau với boss 3**
+# ![image](https://github.com/IAmMinhKhoa/-galactic-war/assets/88275892/42e3b2da-31f9-4cc1-b66e-f7b9563ddda8)
+**Game Over**
 ## Âm thanh
-Hiện tại vẫn chưa có hệ thống âm thanh cho game
+_Hiện tại vẫn chưa có hệ thống âm thanh cho game_
 ## Kết luận
-
 Với gameplay đơn giản nhưng gây nghiện, đồ họa 2D đẹp mắt sống động,có cốt truyện. trò chơi bắn máy bay của chúng tôi sẽ là trò chơi giải trí tuyệt vời cho bất kỳ ai yêu thích thể loại game bắn súng không ngừng nghỉ. Hãy sẵn sàng cho cuộc chiến giữa các thiên hà và trở thành anh hùng của trò chơi này!
+## CÁC LỖI CÒN GẶP
++Khi bị giết bởi Ultimate (tia laze chết chóc) của boss thì player chết không chuyển sang giao diện gameover
++Code chưa tường minh, không có tính tái sử dụng cao.
++Quản lý tài nguyên chưa được tốt.
+=> lý do: Project được tạo ra với mục đích tự học và tìm tòi các thứ mới, nên **những lỗi này đã được rút kinh nghiệm ở các Project kế tiếp.**
+## TẤT CẢ NGUỒN ẢNH ĐỀU LÀ SƯU TẦM TRÊN INTERNET PHỤC VỤ CHO VIỆC HỌC TẬP KHÔNG NHẦM MỤC ĐÍCH TRỤC LỢI !!!
