@@ -63,6 +63,10 @@ Với đồ họa 2D tuyệt đẹp và âm thanh sống động, trò chơi b�
 _Hiện tại vẫn chưa có hệ thống âm thanh cho game_
 ## Kết luận
 Với gameplay đơn giản nhưng gây nghiện, đồ họa 2D đẹp mắt sống động,có cốt truyện. trò chơi bắn máy bay của chúng tôi sẽ là trò chơi giải trí tuyệt vời cho bất kỳ ai yêu thích thể loại game bắn súng không ngừng nghỉ. Hãy sẵn sàng cho cuộc chiến giữa các thiên hà và trở thành anh hùng của trò chơi này!
+## ĐIỂM MẠNH RÚT RA TỪ PROJECT
++Học hỏi được nhiều thứ design 1 game từ kịch bản hình ảnh, cốt truyện.
++Học hỏi nhiều nguồn và nghiên cứu các chức năng mình mong muốn (research skills)
++Nâng cao kĩ năng code, UI. . . cho các dự án sau.
 ## CÁC LỖI CÒN GẶP
 +Khi bị giết bởi Ultimate (tia laze chết chóc) của boss thì player chết không chuyển sang giao diện gameover
 +Code chưa tường minh, không có tính tái sử dụng cao.
