@@ -74,4 +74,4 @@ Với gameplay đơn giản nhưng gây nghiện, đồ họa 2D đẹp mắt s�
 +Quản lý tài nguyên chưa được tốt. <p
 => lý do: Project được tạo ra với mục đích tự học và tìm tòi các thứ mới, nên **những lỗi này đã được rút kinh nghiệm ở các Project kế tiếp.** <p>
 ## TẤT CẢ NGUỒN ẢNH ĐỀU LÀ SƯU TẦM TRÊN INTERNET PHỤC VỤ CHO VIỆC HỌC TẬP KHÔNG NHẦM MỤC ĐÍCH TRỤC LỢI !!!
-## NGÀY THỰC HIỆN : THÁNG 11-2020 ĐẾN THÁNG 1-2021
+## NGÀY THỰC HIỆN : THÁNG 10-2020 ĐẾN THÁNG 1-2021
